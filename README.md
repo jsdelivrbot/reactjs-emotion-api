@@ -13,7 +13,7 @@ A sample output is shown in the 'sample out screenshot.png'.
 To run: 
   - download the source codes (node modules dependency is already provided)
   - navigate to the app directory and enter 'npm start' in CLI
-  - run the http://localhost:8080/ in your browser and click the Play button
+  - run the http://localhost:8080/ in the browser and click the Play button
 
 
 This is still a work in progress.
