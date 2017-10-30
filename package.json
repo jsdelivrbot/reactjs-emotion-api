@@ -1,14 +1,14 @@
 {
-  "name": "implementation2",
+  "name": "reactjs-emotion-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "To test the WATSON EMOTION API.",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "",
+  "author": "Richard Walag",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.2.1",
