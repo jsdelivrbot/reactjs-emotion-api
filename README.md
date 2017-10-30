@@ -1,10 +1,10 @@
 # reactjs-emotion-api
 
-This is a front-end app written in reactJS to test the WATSON API.
+This is a front-end app written in reactJS to test the IBM WATSON API.
 
 The context:
 
-Shakespeare’s play Henry IV part I scripts are metered and have their emotion value scored according to the rating given by the WATSON EMOTION API.
+Shakespeare’s play Henry IV part I scripts are metered and have their emotion value scored according to the rating given by the IBM WATSON EMOTION API.
 
 Actors and emotion graphs are displayed.
 
@@ -25,6 +25,6 @@ To dos:
 
 Caveat:
 
-Since the Axios RESTful query is not possible without an API-KEY for the WATSON EMOTION API, the response payload is simulated as an array of random decimal numbers.
+Since the Axios RESTful query is not possible without an API-KEY for the IBM WATSON EMOTION API, the response payload is simulated as an array of random decimal numbers.
    
    
