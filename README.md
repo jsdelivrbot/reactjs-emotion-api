@@ -10,7 +10,7 @@ A sample output is shown in the 'sample out screenshot.png'.
 
 To run: 
   - download the source codes (node modules dependency are already provided)
-  - enter 'npm start'
+  - enter 'npm start' in the command line
 
 
 This is still a work in progress.
