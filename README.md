@@ -6,6 +6,8 @@ The context: Shakespeare’s play Henry IV part I scripts are metered and have t
 
 Actors and the emotion graphs are displayed.
 
+A sample output is shown in the 'sample out screenshot.png'.
+
 This is still a work in progress.
 To dos:
   - Enable to work the Axios RESTful query without any cross-site issue.
