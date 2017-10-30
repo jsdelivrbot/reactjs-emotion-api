@@ -20,7 +20,7 @@ This is still a work in progress.
 To dos:
   - Enable to work the Axios RESTful query without any cross-site issue.
   - Improve the look and feel
-  - Add the script view that is currently playing
+  - Add view(s) to show the script that is currently playing
   - Add unit tests
 
 Caveat:
