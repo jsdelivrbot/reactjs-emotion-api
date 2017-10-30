@@ -8,6 +8,11 @@ Actors and the emotion graphs are displayed.
 
 A sample output is shown in the 'sample out screenshot.png'.
 
+To run: 
+  - download the source codes (node modules dependency are already provided)
+  - enter 'npm start'
+
+
 This is still a work in progress.
 To dos:
   - Enable to work the Axios RESTful query without any cross-site issue.
