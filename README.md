@@ -11,7 +11,7 @@ Actors and emotion graphs are displayed.
 A sample output is shown in the 'sample out screenshot.png'.
 
 To run: 
-  - download the source codes (node modules dependency are already provided)
+  - download the source codes (node modules dependency is already provided)
   - navigate to the app directory and enter 'npm start' in CLI
   - click the Play button
 
