@@ -9,6 +9,6 @@ Actors and the emotion graphs are displayed.
 This is still a work in progress.
 To dos:
   - Enable to work the Axios RESTful query without any cross-site issue.
-  - Improve the looks and feel
+  - Improve the look and feel
   - Add the script view that is currently playing
   - Add unit tests
