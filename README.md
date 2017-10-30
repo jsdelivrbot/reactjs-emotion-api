@@ -22,6 +22,7 @@ To dos:
   - Add unit tests
 
 Caveat:
-   Since the Axios RESTful query is not possible without an API-KEY for the WATSON EMOTION API, the response payload is simulated as an array of random decimal numbers.
+
+Since the Axios RESTful query is not possible without an API-KEY for the WATSON EMOTION API, the response payload is simulated as an array of random decimal numbers.
    
    
