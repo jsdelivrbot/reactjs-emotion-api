@@ -23,8 +23,4 @@ To dos:
   - Add view(s) to show the script that is currently playing
   - Add unit tests
 
-Caveat:
-
-Since the Axios RESTful query is not possible without an API-KEY for the IBM WATSON EMOTION API, the response payload is simulated as an array of random decimal numbers.
-   
    
