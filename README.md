@@ -18,9 +18,10 @@ To run:
 
 This is still a work in progress.
 To dos:
-  - Enable to work the Axios RESTful query without any cross-site issue.
   - Improve the look and feel
   - Add view(s) to show the script that is currently playing
   - Add unit tests
 
+Caveat:
+  Access to the IBM WATSON API server has expired, thus the response payload is simulated as random decimal numbers that corresponds to each emotion graph.
    
