@@ -23,5 +23,6 @@ To dos:
   - Add unit tests
 
 Caveat:
-  Access to the IBM WATSON API server has expired, thus the response payload is simulated as random decimal numbers that corresponds to each emotion graph.
+
+Access to the IBM WATSON API server has expired, thus the response payload is simulated as random decimal numbers that corresponds to each emotion graph.
    
