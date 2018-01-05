@@ -1,6 +1,6 @@
 # reactjs-emotion-api
 
-This is a front-end app written in ES6/React-Redux/NodeJS technologies to test the IBM WATSON API.
+This app is written in ES6, Bootstrap, React/Redux and NodeJS technologies to test the IBM WATSON API.
 
 The context:
 
@@ -20,7 +20,6 @@ This is still a work in progress.
 To dos:
   - Improve the look and feel
   - Add view(s) to show the script that is currently playing
-  - Add unit tests
 
 Caveat:
 
