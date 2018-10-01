@@ -23,5 +23,5 @@ To dos:
 
 Caveat:
 
-Trial access to the IBM WATSON API server has expired, thus the response payload is simulated as random decimal numbers that corresponds to each emotion graph.
+Trial access to the IBM WATSON API server has expired or deprecated, thus the response payload is simulated as random decimal numbers that corresponds to each emotion graph.
    
